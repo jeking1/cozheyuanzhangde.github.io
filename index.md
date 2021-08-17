@@ -82,7 +82,8 @@ Index(home) page image:
 ### 3. Projects from CS383 Artificial Intelligence
 - Project 1: Solving a Weighted 8-puzzle(Searches: Breadth-first,
 Uniform-cost, Greedy best-first, and A*; Heuristic functions: "number of misplaced tiles", "Manhattan distance" and modified "Manhattan distance")
-- Project 2: Adversarial Search(Minimax, Alpha-Beta Pruning, Evaluation Heuristic). There's a Minimax Game "Robot" heuristic function design competition and my team(2-man team) got a #2 among 223 game bots. Record(win/loss/tie):202/11/9  
+- Project 2: Adversarial Search(Minimax, Alpha-Beta Pruning, Evaluation Heuristic).  
+2nd Place - W/L/T: 202/11/9 | Adversarial Search Minimax AI Robot Competition Best Record Leader Board
 Best Record Leader Board:  
 ![Best Record](assets/images/best_record.jpg)
 - Project 3: Constraint Satisfaction Problems, Logic/Logical Inference
