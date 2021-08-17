@@ -29,9 +29,9 @@ Robotics and Artificial Intelligence.
 <img src="assets/images/pub1.png" alt="pub1" width="30%"/> | some descriptions
 
 # Honors and Awards
-1. 6 x Dean's List Honors | University Registrar - UMass Amherst
-2. 2nd Place - W/L/T: 202/11/9 | Adversarial Search Minimax AI Robot Competition Best Record Leader Board
-3. Certificate | 2021 ROS Summer School
+- 6 x Dean's List Honors | University Registrar - UMass Amherst
+- 2nd Place - W/L/T: 202/11/9 | Adversarial Search Minimax AI Robot Competition Best Record Leader Board
+- Certificate | 2021 ROS Summer School
 
 # Experience
 ## Fudan University Robotics Lab Researcher(Full-time) - June 2021 - August 2021
