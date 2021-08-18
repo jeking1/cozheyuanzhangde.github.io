@@ -55,10 +55,10 @@ Explored open-source Cartographer SLAM simulation
 
 # Other Projects
 ## Course Projects(300+ Level)
-### 1. FindUrCourse – Node.js Web Application (Final Project of CS326 Web Programming)
+### 1. FindUrCourse – Node.js Web Application (Further developed from final project of CS326 Web Programming)
 Website: :link:[www.findurcourse.com](https://www.findurcourse.com/)  
 Github: :link:[github.com/cozheyuanzhangde/Findurcourse](https://github.com/cozheyuanzhangde/Findurcourse)  
-About: FindUrCourse is a website designed for students to search, rank and rate college courses.
+About: FindUrCourse is a website designed for students to search, rank and rate college courses. The website currently has more than 70 courses and 100 comments.
 :mag: HTML/CSS, Bootstrap, JavaScript, Node.js, Express, PostgreSQL
 - Separated front-end and back-end.
 - Front-end user interface w/ Bootstrap and back-end server w/ Node.js.
