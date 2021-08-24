@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   :
-  avatar : "/assets/images/robotme.jpg"
+  avatar : "/assets/images/myavatar.jpg"
   bio    :
   location  : "Amherst, MA"
   links:
